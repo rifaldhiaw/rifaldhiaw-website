@@ -13,6 +13,8 @@ import * as THREE from "three";
 import { Color, Group } from "three";
 import { SVGLoader } from "three/examples/jsm/loaders/SVGLoader";
 
+// force commit test
+
 function App() {
   return (
     <div className="w-full h-screen flex flex-col bg-black">
